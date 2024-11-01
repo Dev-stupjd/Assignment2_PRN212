@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CA8D0C-D085-4269-B99D-0B68A90FA417}|KhoiNDQWPF\\KhoiNDQWPF.csproj|d:\\semester 5\\c#\\khoindq_se18b02_a02\\khoindqwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CA8D0C-D085-4269-B99D-0B68A90FA417}|KhoiNDQWPF\\KhoiNDQWPF.csproj|solutionrelative:khoindqwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\semester 5\\c#\\khoindq_se18b02_a02\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester 5\\c#\\khoindq_se18b02_a02\\dataaccesslayer\\hmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\hmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|d:\\semester 5\\c#\\khoindq_se18b02_a02\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7DDEFF-09AB-4BD2-9093-229A2703961F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester 5\\c#\\khoindq_se18b02_a02\\dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{312AB04D-3195-48C0-BA90-3A7E92D6F871}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\KhoiNDQWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KhoiNDQWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\KhoiNDQWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "KhoiNDQWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:51:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:50:30.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:50:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\DataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessLayer\\appsettings.json",
+              "ToolTip": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\DataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "DataAccessLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T03:33:28.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HmsDBContext.cs",
+              "DocumentMoniker": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\DataAccessLayer\\HmsDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\HmsDBContext.cs",
+              "ToolTip": "D:\\Semester 5\\C#\\KhoiNDQ_SE18B02_A02\\DataAccessLayer\\HmsDBContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\HmsDBContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:29:55.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

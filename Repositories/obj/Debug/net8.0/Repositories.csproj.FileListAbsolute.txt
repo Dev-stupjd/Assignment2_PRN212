@@ -1,0 +1,36 @@
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\appsettings.json
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\PRN212\LeTanDai_SE18B02_A02\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\appsettings.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\Repositories\obj\Debug\net8.0\ref\Repositories.dll

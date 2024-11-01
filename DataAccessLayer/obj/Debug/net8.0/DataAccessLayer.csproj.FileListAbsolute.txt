@@ -1,0 +1,36 @@
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+E:\PRN212\LeTanDai_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\appsettings.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\appsettings.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Semester 5\C#\KhoiNDQ_SE18B02_A02\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
